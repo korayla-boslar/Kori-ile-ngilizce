@@ -1,0 +1,24 @@
+{
+  "name": "kori-ile-ingilizce",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0",
+    "typescript": "^5.8.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@vercel/blob": "^1.0.2",
+    "lucide-react": "^0.468.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {}
+}
